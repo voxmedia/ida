@@ -1486,7 +1486,7 @@ var demoRows =
 
 var newDefaultTimeline = new Timeline({
   title:"#BatonRouge",
-  description: "Seached on 12 July 2016 17:06 by <a href=''>@yian</a> at <a href='http://www.vox.com' target='_blank' >@VoxMediaInc</a>",
+  description: "Searched on 12 July 2016 17:06 by <a href=''>@yian</a> at <a href='http://www.voxmedia.com' target='_blank' >@VoxMediaInc</a>",
   hashtag:[
     "#example",  "#example2",
   ],
