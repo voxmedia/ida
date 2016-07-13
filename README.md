@@ -13,3 +13,13 @@
 - twitter search script/express app in `twitter` folder
 - `mock` has some html of other views for the app.
 - `data` has some json of twitter searches
+
+
+# Contributors
+
+- Kainaz Amaria
+- Yian Shang
+- Andrew Johnson
+- Vince Dixon
+- Bo Hee Kim
+- Pietro Passarelli
