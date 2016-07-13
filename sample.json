@@ -1,0 +1,33 @@
+{
+  "timeline":
+ {
+  "title":"timeline title",
+  "hashtag":[
+    "#example",  "#example2",
+  ],
+  "rows":
+  [
+    {
+      "heading":"Some heading",
+      "date": "12-07-2016",
+      "medias":
+      [
+        {"id":1,
+          "title": "Media Title",
+          "hashtag":"#SomethingTrendy",
+          "timeStamp": "11-07-2016",
+          "retweetsCount":"347",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "sourceUrl":"www.vox.com",
+          "sourceDescriptiong": "Vox",
+          "imgUrl": "",
+          "videoUrl":"",
+          "gifUrl":"",
+          "mediaType": "img"
+        }
+      ]
+    }
+  ]
+
+ }
+}
